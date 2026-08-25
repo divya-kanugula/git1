@@ -11,4 +11,5 @@ sum=$((a + b))
 echo "First number: $a"
 echo "Second number: $b"
 echo "Sum: $sum"
+give the output
 
